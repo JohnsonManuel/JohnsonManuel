@@ -38,4 +38,4 @@ I'm an ambitious and dedicated M.S. student in Artificial Intelligence at BTU Co
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/JohnsonManuel/HWR---Hand-Writing-Recognition&mode=light&style=horizontal)](https://github.com/JohnsonManuel/HWR---Hand-Writing-Recognition)
 
 
-##Thanks for visiting my github . 
+## Thanks for visiting my github . 
