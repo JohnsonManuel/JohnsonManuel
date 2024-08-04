@@ -16,7 +16,7 @@ I'm an ambitious and dedicated M.S. student in Artificial Intelligence at BTU Co
 ![XHTML](https://img.shields.io/badge/-XHTML-%23E34C26?style=for-the-badge&logo=html5&logoColor=ffffff)  ![Restful API](https://img.shields.io/badge/-Restful%20API-%230077B5?style=for-the-badge&logo=restful-api&logoColor=ffffff) 
 
 ## Backend & Database
-![SQL](https://img.shields.io/badge/-SQL-%2300C7B7?style=for-the-badge&logo=sql&logoColor=ffffff) ![Hibernate](https://img.shields.io/badge/-Hibernate-%23F2C811?style=for-the-badge&logo=hibernate&logoColor=ffffff) |
+![SQL](https://img.shields.io/badge/-SQL-%2300C7B7?style=for-the-badge&logo=sql&logoColor=ffffff) ![Hibernate](https://img.shields.io/badge/-Hibernate-%23F2C811?style=for-the-badge&logo=hibernate&logoColor=ffffff)
 
 ## Machine Learning & Data Science
 ![Neural Networks](https://img.shields.io/badge/-Neural%20Networks-%23000?style=for-the-badge&logo=neural-networks&logoColor=ffffff) ![LSTM](https://img.shields.io/badge/-LSTM-%2300BCD4?style=for-the-badge&logo=lstm&logoColor=ffffff) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=ffffff) 
@@ -24,7 +24,7 @@ I'm an ambitious and dedicated M.S. student in Artificial Intelligence at BTU Co
 ![OpenCV](https://img.shields.io/badge/-OpenCV-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=ffffff)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-%230077B5?style=for-the-badge&logo=matplotlib&logoColor=ffffff)  ![Tableau](https://img.shields.io/badge/-Tableau-%23E97627?style=for-the-badge&logo=tableau&logoColor=ffffff) 
 
 ## Containerization & Orchestration
-![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=ffffff)  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff) |
+![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=ffffff)  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff) 
 
 ## Version Control
  ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=ffffff) 
