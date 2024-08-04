@@ -30,8 +30,12 @@ I'm an ambitious and dedicated M.S. student in Artificial Intelligence at BTU Co
  ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=ffffff) 
 
 ## My Current Projects
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/JohnsonManuel/CIFAR-Classification)](https://github.com/JohnsonManuel/CIFAR-Classification) [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/JohnsonManuel/Word-Segmentation-OpenCV)](https://github.com/JohnsonManuel/Word-Segmentation-OpenCV) [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/JohnsonManuel/HWR---Hand-Writing-Recognition)](https://github.com/JohnsonManuel/HWR---Hand-Writing-Recognition)
+
+[![CIFAR Classification](https://svg.bookmark.style/api?url=https://github.com/JohnsonManuel/CIFAR-Classification&mode=light&style=horizontal)](https://github.com/JohnsonManuel/CIFAR-Classification) 
+
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/JohnsonManuel/Word-Segmentation-OpenCV&mode=light&style=horizontal)](https://github.com/JohnsonManuel/Word-Segmentation-OpenCV) 
+
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/JohnsonManuel/HWR---Hand-Writing-Recognition&mode=light&style=horizontal)](https://github.com/JohnsonManuel/HWR---Hand-Writing-Recognition)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsonmanuel321&layout=compact&theme=radical)](https://github.com/johnsonmanuel321)
-
+##Thanks for visiting my github . 
